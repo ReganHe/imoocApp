@@ -1,16 +1,16 @@
 {
-	"name": "imoocApp",
-	"version": "0.0.1",
-	"private": true,
-	"scripts": {
-		"start": "node node_modules/react-native/local-cli/cli.js start",
-		"test": "jest"
-	},
-	"dependencies": {
-		"react": "15.4.2",
-		"react-native": "^0.41.2"
-	},
-	"jest": {
-		"preset": "react-native"
-	}
+  "name": "imoocApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "^0.14.8",
+    "react-native": "^0.22.2"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
 }
