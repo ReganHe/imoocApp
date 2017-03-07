@@ -1,31 +1,23 @@
 dependencies: \
   /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/Libraries/Image/RCTImageView.m \
   /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/Libraries/Image/RCTImageView.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTImageSource.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/Libraries/Image/RCTImageBlurUtils.h \
+  ../../React/Views/RCTImageComponent.h \
+  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/Libraries/Image/RCTResizeMode.h \
+  ../../React/Base/RCTConvert.h ../../React/Layout/Layout.h \
+  ../../React/Views/RCTAnimationType.h \
+  ../../React/Views/RCTBorderStyle.h \
+  ../../React/Views/RCTTextDecorationLineType.h \
+  ../../React/Base/RCTDefines.h ../../React/Base/RCTLog.h \
+  ../../React/Base/RCTAssert.h ../../React/Views/RCTPointerEvents.h \
+  ../../React/Base/RCTBridge.h ../../React/Base/RCTBridgeDelegate.h \
+  ../../React/Base/RCTBridgeModule.h ../../React/Base/RCTFrameUpdate.h \
+  ../../React/Base/RCTInvalidating.h \
+  ../../React/Base/RCTJavaScriptExecutor.h \
+  ../../React/Base/RCTEventDispatcher.h \
   /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/Libraries/Image/RCTImageLoader.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/Libraries/Image/RCTImageUtils.h
+  ../../React/Base/RCTURLRequestHandler.h \
+  ../../React/Base/RCTURLRequestDelegate.h \
+  ../../React/Base/RCTImageSource.h \
+  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/Libraries/Image/RCTImageUtils.h \
+  ../../React/Base/RCTUtils.h ../../React/Views/UIView+React.h \
+  ../../React/Views/RCTComponent.h

@@ -1,21 +1,13 @@
 dependencies: \
   /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/Libraries/Text/RCTText.m \
   /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/Libraries/Text/RCTText.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
   /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/Libraries/Text/RCTShadowText.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h
+  ../../React/Views/RCTShadowView.h ../../React/Layout/Layout.h \
+  ../../React/Views/RCTComponent.h ../../React/Base/RCTRootView.h \
+  ../../React/Base/RCTBridge.h ../../React/Base/RCTBridgeDelegate.h \
+  ../../React/Base/RCTBridgeModule.h ../../React/Base/RCTDefines.h \
+  ../../React/Base/RCTFrameUpdate.h ../../React/Base/RCTInvalidating.h \
+  ../../React/Base/RCTJavaScriptExecutor.h \
+  ../../React/Views/RCTTextDecorationLineType.h \
+  ../../React/Base/RCTUtils.h ../../React/Base/RCTAssert.h \
+  ../../React/Views/UIView+React.h

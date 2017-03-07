@@ -1,26 +1,21 @@
 dependencies: \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/React/Base/RCTJavaScriptLoader.m \
   /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/React/Base/RCTBridge.h \
   /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/React/Base/RCTBridge.h \
   /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/React/Base/RCTDefines.h \
   /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
   /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
   /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/React/Base/RCTConvert.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/React/Layout/Layout.h \
   /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/React/Views/RCTAnimationType.h \
   /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
   /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/React/Base/RCTLog.h \
   /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/React/Base/RCTAssert.h \
   /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/React/Views/RCTPointerEvents.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/React/Base/RCTMultipartStreamReader.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/React/Base/RCTUtils.h
+  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/React/Modules/RCTSourceCode.h \
+  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/React/Base/RCTPerformanceLogger.h

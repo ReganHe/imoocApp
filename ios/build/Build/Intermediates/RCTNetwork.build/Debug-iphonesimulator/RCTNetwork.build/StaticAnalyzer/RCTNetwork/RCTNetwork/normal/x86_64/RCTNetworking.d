@@ -1,27 +1,18 @@
 dependencies: \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/Libraries/Network/RCTNetworking.mm \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworkTask.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworking.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/Libraries/Network/RCTHTTPRequestHandler.h
+  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/Libraries/Network/RCTNetworking.m \
+  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/Libraries/Network/RCTNetworking.h \
+  ../../React/Base/RCTBridge.h ../../React/Base/RCTBridgeDelegate.h \
+  ../../React/Base/RCTBridgeModule.h ../../React/Base/RCTDefines.h \
+  ../../React/Base/RCTFrameUpdate.h ../../React/Base/RCTInvalidating.h \
+  ../../React/Base/RCTJavaScriptExecutor.h \
+  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/Libraries/Network/RCTNetworkTask.h \
+  ../../React/Base/RCTURLRequestDelegate.h \
+  ../../React/Base/RCTURLRequestHandler.h ../../React/Base/RCTAssert.h \
+  ../../React/Base/RCTConvert.h ../../React/Layout/Layout.h \
+  ../../React/Views/RCTAnimationType.h \
+  ../../React/Views/RCTBorderStyle.h \
+  ../../React/Views/RCTTextDecorationLineType.h \
+  ../../React/Base/RCTLog.h ../../React/Views/RCTPointerEvents.h \
+  ../../React/Base/RCTEventDispatcher.h \
+  /Users/wu/Documents/Mark/Exercise/MyReactNative/imoocApp/node_modules/react-native/Libraries/Network/RCTHTTPRequestHandler.h \
+  ../../React/Base/RCTUtils.h
